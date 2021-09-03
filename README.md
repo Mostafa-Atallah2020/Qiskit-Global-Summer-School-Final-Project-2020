@@ -1,7 +1,5 @@
 # Qiskit-Global-Summer-School-Final-Project-2020
 
-# QiskitFinalProject
-
 ## Final Project of the Qiskit 2020 Summer School
 **Objective:** Simulate the ground state of the molecule Lithium Hydride (LiH) with the lowest energy and error. 
 The goal is to complete the molecular simulation in the *fewest number of steps*, and the *highest level of chemical accuracy*.
@@ -57,8 +55,6 @@ The First Quantized Molecular Hamiltonian for LiH can be described with the foll
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choices of designing Variational Quantum Eigensolver (VQE) algorithms and compare their performance under specified assumptions to each other and to the classically computed exact solution. In addition, we will look at how realistic device specific noises could impact the performance of VQE algorithms. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When designing an algorithm to be run on an actual quantum computer, there are a lot of variables to consider and the choices you make for the algorithm could dynamically change given different hardware specifications. Therefore there is no right answer for how you should design your algorithm. The goal of this project is for you to understand the different components that comprise a VQE algorithm and showcase your understanding by comparing the performance of different algorithm instances.
-
-##### Reducing Complexity - Quantum Mechanics - Applying Mathematical Reductions
 
 ### The Project Team 
 
