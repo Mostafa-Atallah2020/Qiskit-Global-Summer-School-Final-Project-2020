@@ -1,6 +1,5 @@
-# Qiskit-Global-Summer-School-Final-Project-2020
-
 ## Final Project of the Qiskit 2020 Summer School
+
 **Objective:** Simulate the ground state of the molecule Lithium Hydride (LiH) with the lowest energy and error. 
 The goal is to complete the molecular simulation in the *fewest number of steps*, and the *highest level of chemical accuracy*.
 
