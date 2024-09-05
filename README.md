@@ -21,7 +21,7 @@ $$
 \text{Electron Kinetic Energy} = \frac{1}{2} m v^{2}
 $$
 
-Where $ m $ is the mass of an electron and $ v $ is the velocity of an electron in meters per second.
+Where $m$ is the mass of an electron and $v$ is the velocity of an electron in meters per second.
 
 $$
 m = 9.10938356 \times 10^{-31} \, \text{kg}
@@ -43,7 +43,7 @@ $$
 \text{Proton Kinetic Energy} = \frac{1}{2} m v^{2}
 $$
 
-Where $ m $ is the mass of a proton and $ v $ is the velocity of a proton in meters per second.
+Where $m$ is the mass of a proton and $v$ is the velocity of a proton in meters per second.
 
 $$
 m = 1.6726219 \times 10^{-27} \, \text{kg}
