@@ -26,6 +26,7 @@ Where $ m $ is the mass of an electron and $ v $ is the velocity of an electron 
 $$
 m = 9.10938356 \times 10^{-31} \, \text{kg}
 $$
+
 $$
 v = \frac{\text{m}}{\text{s}}
 $$
@@ -47,6 +48,7 @@ Where $ m $ is the mass of a proton and $ v $ is the velocity of a proton in met
 $$
 m = 1.6726219 \times 10^{-27} \, \text{kg}
 $$
+
 $$
 v = \frac{\text{m}}{\text{s}}
 $$
